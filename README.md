@@ -1,6 +1,6 @@
 # belly-button-challenge
 
-![Alt Text](images/Screen Shot 2023-10-21 at 11.07.41 AM.png)
+![Alt Text](images/webpage.png)
 
 
 ## Table of Contents
