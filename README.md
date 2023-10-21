@@ -7,7 +7,7 @@
 - [Deployment](#deployment)
 - [Background](#background)
 - [Instructions](#instructions)
-- [Advanced Challenge](#advanced challenge)
+- [Advanced Challenge](#advancedchallenge)
 
 ## Deployment
 https://hazelmena.github.io/belly-button-challenge/
@@ -35,7 +35,6 @@ Use sample_values for the y values.
 Use sample_values for the marker size.
 Use otu_ids for the marker colors.
 Use otu_labels for the text values.
-![Alt Text](images/Bar:gauge.png)
 ![Alt Text](images/bubblechart.png)
 Display the sample metadata, i.e., an individual's demographic information.
 
